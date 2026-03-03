@@ -1,0 +1,10 @@
+NLP
+
+want to learn about RL, generative AI and theoretical ML courses 
+
+focus on more intricate concepts in ML and AI, building on foundational courses I have taken in UG
+
+Although my major UG projects are not AIML oriented, my background research during those projects made me realise that integration of ML with other branches of CS is being widely explored and I want to explore that. 
+
+I did take several AIML courses, including one on NLP, which i found very interesting. So I am eager to build on the concepts I learned in that course.
+

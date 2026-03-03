@@ -1,0 +1,21 @@
+PRE t1 p1
+POST t1 p2 p6
+PRE t2 p2
+POST t2 p3
+PRE t4 p3
+POST t4 p4
+PRE t5 p4
+POST t5 p5
+PRE t3 p6
+POST t3 p7
+PRE t6 p5 p7
+POST t6 p8
+PRE t7 p8
+POST t7 p8
+PRE t8 p8
+POST t8 p9
+PRE t9 p9
+POST t9 p10
+PRE t10 p10
+POST t10 p11
+INIT p1
